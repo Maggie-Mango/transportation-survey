@@ -31,5 +31,5 @@ The visitor can select checkboxes and then find out how many modes of transporta
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contact Information
-maggiesaldivia@gmail.com
-benjamin.brucker@gmail.com
+* maggiesaldivia@gmail.com
+* benjamin.brucker@gmail.com
