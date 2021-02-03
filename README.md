@@ -1,8 +1,8 @@
-# Word Counter
+# Transportation Survey
 
-### A program that will count the frequency of words of the inputted text
+### A program that will show you the types of transportaiton you take and amount
 
-#### By Maggie Saldivia **{Maggie-Mango}**
+#### By Maggie Saldivia & Benji Brucker
 
 ## Technologies Used
 * HTML
@@ -13,7 +13,7 @@
 
 ## Description
 
-The visitor can input a block of test and see how frequent the string pops up.
+The visitor can select checkboxes and then find out how many modes of transportation they good.
 
 ## Setup/Installation Requirements
 
@@ -31,5 +31,5 @@ The visitor can input a block of test and see how frequent the string pops up.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contact Information
-
 maggiesaldivia@gmail.com
+benjamin.brucker@gmail.com
